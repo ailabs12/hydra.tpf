@@ -1,0 +1,9 @@
+README.rst
+setup.py
+lib/hydra/__init__.py
+lib/hydra/tpf.py
+lib/hydra.egg-info/PKG-INFO
+lib/hydra.egg-info/SOURCES.txt
+lib/hydra.egg-info/dependency_links.txt
+lib/hydra.egg-info/requires.txt
+lib/hydra.egg-info/top_level.txt
